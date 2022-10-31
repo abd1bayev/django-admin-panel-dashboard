@@ -2,6 +2,12 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
 <<<<<<< HEAD
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.webdriver" />
+=======
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
@@ -28,13 +34,7 @@
       <option name="ignoredErrors">
         <list>
           <option value="N812" />
-=======
-    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ignoredIdentifiers">
-        <list>
-          <option value="main.webdriver" />
->>>>>>> 1bc35cf (all)
+>>>>>>> b7b8fe91d5497e6b8ab268f65c97441b42856b3f
         </list>
       </option>
     </inspection_tool>

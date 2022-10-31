@@ -7,4 +7,15 @@
     <orderEntry type="jdk" jdkName="Python 3.10 (django-admin-panel-dashboard)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/admin_panel_dashboard_3/apps/templates" />
+      </list>
+    </option>
+  </component>
+>>>>>>> b7b8fe91d5497e6b8ab268f65c97441b42856b3f
 </module>
